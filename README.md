@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/mauriciomutte" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/mauriciomutte" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/mauriciomutte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://github.com/mauriciomutte" target="_blank"><img src="http://hits.dwyl.com/mauriciomutte/mauriciomutte.svg" alt="Instagram"></a>
 </p>
 
 :computer: Full Stack Developer at Digi <br>
