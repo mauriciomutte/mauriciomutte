@@ -1,0 +1,32 @@
+{
+  "name": "mauriciomutte",
+  "description": "Maurício Mutte business card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mauriciomutte/mauriciomutte.git",
+  "author": "mauriciomutte <litiobr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js"
+  },
+  "keywords": [
+    "card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "standard": "^16.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/bnb/bitandbang/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.registry.github.com/"
+  }
+}
