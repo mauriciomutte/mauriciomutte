@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/mauriciomutte/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-:computer: Full Stack Developer at Digi <br>
+:computer: Frond-end Developer at <a href="https://github.com/juntossomosmais" target="_blank">Juntos Somos Mais</a> <br>
 :house: Brazilian, Based in Porto Alegre, RS <br>
 :sparkles: I'm currently learning React Native <br>
 
